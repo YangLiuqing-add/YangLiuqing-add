@@ -14,15 +14,28 @@ I graduated from the College of Geophysics, China University of Petroleum (Beiji
 ### 📎 Homepages
 - Personal Pages: https://YangLiuqing-add.github.io (updated recently🔥)
 - LinkedIn: https://www.linkedin.com/in/liuqing-yang-b94501302/?skipRedirect=true
-- Google Scholar: hhttps://scholar.google.com/citations?user=-IY0AbUAAAAJ&hl=en
-- Research Gate: https://www.researchgate.net/profile/Liuqing-Yang-22?ev=hdr_xprf
+- Google Scholar: https://scholar.google.com/citations?user=-IY0AbUAAAAJ&hl=en
+- ResearchGate: https://www.researchgate.net/profile/Liuqing-Yang-22?ev=hdr_xprf
 
 ### 🔥 News
 - *2026.06*: 🎉 Gave an oral presentation at the 87th EAGE Annual Conference
+- *2026.05*: 🎉 Gave an oral presentation at the 87th EAGE Annual Conference
 - *2026.01*: 🎉 One paper is published in Geophysical Prospecting
 - *2025.09*: 🎉 One paper is published in Seismological Research Letters
 - *2025.05*: 🎉 One paper is published in JGR: MLC
 - *2025.01*: 🎉 One paper is published in Geophysics
+
+### 🌍 Field Experience
+#### 🇨🇦 Vauze Mine Tailings Facility, Quebec, Canada
+- Large-scale 3D seismic and DAS acquisition.
+- Wireless seismic recorder deployment and landstreamer-based surveys.
+- Mine tailings characterization and stability assessment.
+
+<p align="center">
+  <img src="images/Canada_field.jpg" width="70%">
+</p>
+
+
 
 ### 💻 Selected Research Papers
 
@@ -34,7 +47,7 @@ My full paper list is shown at [my personal homepage](https://YangLiuqing-add.gi
 - ``Surveys in Geophysics 2024`` [Deep Learning with Fully Convolutional and Dense Connection Framework for Ground Roll Attenuation](https://doi.org/10.1007/s10712-023-09779-8), **Liuqing Yang**, Shoudong Wang, Yangkang Chen, et al.
 - ``Geophysics 2023`` [Denoising of distributed acoustic sensing (DAS) data using supervised deep learning](https://doi.org/10.1190/geo2022-0138.1), **Liuqing Yang**, Sergey Fomel, Yangkang Chen, et al.
 #### 👄 Geophysical Inversion
-- ``GP 2025`` [Unsupervised Physics‐Guided Deconvolution for High‐Resolution Hardrock Seismic Imaging](https://doi.org/10.1111/1365-2478.70123), **Liuqing Yang**, Alireza Malehmir, Magdalena Markovic.
+- ``GP 2026`` [Unsupervised Physics‐Guided Deconvolution for High‐Resolution Hardrock Seismic Imaging](https://doi.org/10.1111/1365-2478.70123), **Liuqing Yang**, Alireza Malehmir, Magdalena Markovic.
 - ``Geophysics 2025`` [HCTNet: Robust Prestack Seismic Inversion using a Hybrid Convolutional Transformer](https://doi.org/10.1190/geo2024-0015.1), **Liuqing Yang**, Sergey Fomel, Yangkang Chen, et al.
 
 #### 📚 Reservoir Characterization
@@ -43,5 +56,5 @@ My full paper list is shown at [my personal homepage](https://YangLiuqing-add.gi
 
 #### 🎼 AI for Seismology
 - ``SRL 2025`` [QBTransNet: Deep Learning Earthquake Distinction from Quarry Blasts Using Dilated Convolutional Transformer](https://doi.org/10.1785/0220240388), **Liuqing Yang**, Yangkang Chen, Alexandros Savvaidis, et al.
-- ``SRL 2025`` [QBTransNet: Deep Learning Earthquake Distinction from Quarry Blasts Using Dilated Convolutional Transformer](https://doi.org/10.1785/0220240388), **Liuqing Yang**, Yangkang Chen, Alexandros Savvaidis, et al.
+- ``GJI 2025`` [Rapid identification of induced seismicity using deep learning in West Texas](https://doi.org/10.1785/0220240388), Yangkang Chen, Lason Grigoratos, **Liuqing Yang**, et al.
 
