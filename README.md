@@ -19,7 +19,6 @@ I graduated from the College of Geophysics, China University of Petroleum (Beiji
 
 ### 🔥 News
 - *2026.06*: 🎉 Gave an oral presentation at the 87th EAGE Annual Conference
-- *2026.05*: 🎉 Gave an oral presentation at the 87th EAGE Annual Conference
 - *2026.01*: 🎉 One paper is published in Geophysical Prospecting
 - *2025.09*: 🎉 One paper is published in Seismological Research Letters
 - *2025.05*: 🎉 One paper is published in JGR: MLC
@@ -32,7 +31,9 @@ I graduated from the College of Geophysics, China University of Petroleum (Beiji
 - Mine tailings characterization and stability assessment.
 
 <p align="center">
-  <img src="images/Canada_field.jpg" width="70%">
+  <img src="Figures/Canada_field1.jpeg" width="32%">
+  <img src="Figures/Canada_field2.jpeg" width="32%">
+  <img src="Figures/Canada_unit.jpeg" width="32%">
 </p>
 
 
