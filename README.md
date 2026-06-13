@@ -39,8 +39,8 @@ Participated in a mixed 2D and sparse 3D seismic acquisition campaign over 30 km
 
 <p align="center">
   <img src="Images/Sala_field1.jpeg" width="40%">
-  <img src="Images/Sala_field2.jpeg" width="36%">
-  <img src="Images/Sala_field3.jpeg" width="22%">
+  <img src="Images/Sala_field2.jpeg" width="38%">
+  <img src="Images/Sala_field3.jpeg" width="20%">
 </p>
 
 
