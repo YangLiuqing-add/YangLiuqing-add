@@ -49,7 +49,7 @@ Participated in a full-scale geophysical survey involving fiber-optic cable depl
 <p align="center">
   <img src="Images/Ludvika_field1.jpeg" width="42%">
   <img src="Images/Ludvika_field2.jpeg" width="25%">
-  <img src="Images/Ludvika_field3.jpeg" width="20%">
+  <img src="Images/Ludvika_field3.jpeg" width="22%">
 </p>
 ### 💻 Selected Research Papers
 
