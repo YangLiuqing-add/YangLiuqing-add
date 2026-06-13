@@ -7,8 +7,8 @@ I graduated from the College of Geophysics, China University of Petroleum (Beiji
 ### Research Interests
 - AI for Geophysical Sciences
 - Seismic Data Processing and Imaging
-- Reservoir Characterization and Prediction
-- Seismic Inversion
+- Reservoir Characterization
+- Geophysical Inversion
 - Interpretable and Reliable AI
 
 ### 📎 Homepages
