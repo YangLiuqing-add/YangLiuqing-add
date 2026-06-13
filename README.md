@@ -24,7 +24,7 @@ I graduated from the College of Geophysics, China University of Petroleum (Beiji
 - *2025.05*: 🎉 One paper is published in JGR: MLC
 - *2025.01*: 🎉 One paper is published in Geophysics
 
-### 🌍 Field Experience
+### 🌍 Field Activities
 #### 🇨🇦 Vauze Mine Tailings Facility, Quebec, Canada
 Participated in a large-scale 3D seismic and DAS acquisition campaign for mine tailings characterization and stability assessment, involving wireless seismic recorders, landstreamer-based surveys, and DAS measurements.
 
