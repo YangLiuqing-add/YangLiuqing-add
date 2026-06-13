@@ -32,8 +32,8 @@ I graduated from the College of Geophysics, China University of Petroleum (Beiji
 
 <p align="center">
   <img src="Figures/Canada_field.jpeg" width="34%">
-  <img src="Figures/Canada_field2.jpeg" width="32%">
-  <img src="Figures/Canada_unit.jpeg" width="32%">
+  <img src="Figures/Canada_field2.jpeg" width="31%">
+  <img src="Figures/Canada_unit.jpeg" width="31%">
 </p>
 
 
