@@ -47,7 +47,7 @@ Participated in a mixed 2D and sparse 3D seismic acquisition campaign over 30 km
 Participated in a full-scale geophysical survey involving fiber-optic cable deployment, DAS measurements, and 3D seismic acquisition at the historical Nordic Iron mine tailings facility in the Blötberget area, supporting subsurface characterization and mineral exploration.
 
 <p align="center">
-  <img src="Images/Ludvika_field1.jpeg" width="12%">
+  <img src="Images/Ludvika_field1.jpeg" width="42%">
   <img src="Images/Ludvika_field2.jpeg" width="30%">
   <img src="Images/Ludvika_field3.jpeg" width="20%">
 </p>
