@@ -34,6 +34,14 @@ Participated in a large-scale 3D seismic and DAS acquisition campaign for mine t
   <img src="Figures/Canada_unit.jpeg" width="31%">
 </p>
 
+#### 🇸🇪 Mineral Exploration Survey, Sala, Sweden
+Participated in a mixed 2D and sparse 3D seismic acquisition campaign over 30 km in the Sala region, together with collocated MT measurements, to image deep geological structures and support mineral exploration in central Sweden.
+
+<p align="center">
+  <img src="Figures/Sala_field1.jpeg" width="31.6%">
+  <img src="Figures/Sala_field2.jpeg" width="33%">
+  <img src="Figures/Sala_field3.jpeg" width="31%">
+</p>
 
 
 ### 💻 Selected Research Papers
