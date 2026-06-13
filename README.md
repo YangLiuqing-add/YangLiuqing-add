@@ -31,9 +31,9 @@ I graduated from the College of Geophysics, China University of Petroleum (Beiji
 - Mine tailings characterization and stability assessment.
 
 <p align="center">
-  <img src="Figures/Canada_field.jpeg" width="32%">
-  <img src="Figures/Canada_field2.jpeg" width="32%">
-  <img src="Figures/Canada_unit.jpeg" width="32%">
+  <img src="Figures/Canada_field.jpeg" width="38%">
+  <img src="Figures/Canada_field2.jpeg" width="30%">
+  <img src="Figures/Canada_unit.jpeg" width="30%">
 </p>
 
 
