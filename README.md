@@ -29,8 +29,8 @@ I graduated from the College of Geophysics, China University of Petroleum (Beiji
 Participated in a large-scale 3D seismic and DAS acquisition campaign for mine tailings characterization and stability assessment, involving wireless seismic recorders, landstreamer-based surveys, and DAS measurements.
 
 <p align="center">
-  <img src="Figures/Canada_field.jpeg" width="34%">
-  <img src="Figures/Canada_field2.jpeg" width="31%">
+  <img src="Figures/Canada_field.jpeg" width="33%">
+  <img src="Figures/Canada_field2.jpeg" width="32%">
   <img src="Figures/Canada_unit.jpeg" width="31%">
 </p>
 
