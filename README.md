@@ -26,9 +26,7 @@ I graduated from the College of Geophysics, China University of Petroleum (Beiji
 
 ### 🌍 Field Experience
 #### 🇨🇦 Vauze Mine Tailings Facility, Quebec, Canada
-- Large-scale 3D seismic and DAS acquisition.
-- Wireless seismic recorder deployment and landstreamer-based surveys.
-- Mine tailings characterization and stability assessment.
+Participated in a large-scale 3D seismic and DAS acquisition campaign for mine tailings characterization and stability assessment, involving wireless seismic recorders, landstreamer-based surveys, and distributed acoustic sensing (DAS) measurements.
 
 <p align="center">
   <img src="Figures/Canada_field.jpeg" width="34%">
