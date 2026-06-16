@@ -70,7 +70,7 @@ My full paper list is shown at [my personal homepage](https://YangLiuqing-add.gi
 
 #### 📚 Reservoir Characterization
 - ``Geophysics 2023`` [Porosity and permeability prediction using transformer and periodic long short-term network](https://doi.org/10.1190/geo2022-0150.1), **Liuqing Yang**, Sergey Fomel, Yangkang Chen, et al.
-- ``IEEE TNNLS 2022`` [High-Fidelity Permeability and Porosity Prediction Using Deep Learning With the Self-Attention Mechanism](https://doi.org/10.1109/TNNLS.2022.3157765), **Liuqing Yang**, Sergey Fomel, Yangkang Chen, et al.
+- ``IEEE TNNLS 2023`` [High-Fidelity Permeability and Porosity Prediction Using Deep Learning With the Self-Attention Mechanism](https://doi.org/10.1109/TNNLS.2022.3157765), **Liuqing Yang**, Sergey Fomel, Yangkang Chen, et al.
 
 #### 🎼 AI for Seismology
 - ``SRL 2025`` [QBTransNet: Deep Learning Earthquake Distinction from Quarry Blasts Using Dilated Convolutional Transformer](https://doi.org/10.1785/0220240388), **Liuqing Yang**, Yangkang Chen, Alexandros Savvaidis, et al.
